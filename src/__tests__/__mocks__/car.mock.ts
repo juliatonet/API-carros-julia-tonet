@@ -33,3 +33,5 @@ export const carFindManyMock = [
     km: 10000,
   },
 ];
+
+export const invalidIdMock = ""
