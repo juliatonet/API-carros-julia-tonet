@@ -34,4 +34,12 @@ export const carFindManyMock = [
   },
 ];
 
-export const invalidIdMock = ""
+export const carUpdateMock = {
+  name: "208",
+  description: "Hatch car",
+  brand: "Pegout",
+  year: 2024,
+  km: 10000,
+};
+
+export const invalidIdMock = "";
