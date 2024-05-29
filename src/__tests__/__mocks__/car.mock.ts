@@ -41,5 +41,3 @@ export const carUpdateMock = {
   year: 2024,
   km: 10000,
 };
-
-export const invalidIdMock = "";
